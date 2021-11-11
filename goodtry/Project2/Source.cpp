@@ -4,7 +4,7 @@
 #include <string>
 #include <queue>
 using namespace std;
- int inf = 100;
+ int inf = 10000;
 
 vector<vector<pair<int, int>>> graph;
 int v,j;
@@ -18,7 +18,7 @@ int main() {
     vector<int> radius;
     cout << "The graph is weighted - 1;\nThe graph is unweighted - 2;\n";
     cin >> uslov;
-    string path = "myproject.txt";
+    string path = "file.txt";
     ifstream fin;
     fin.open(path);
     if (!fin.is_open()) {
@@ -26,7 +26,7 @@ int main() {
     }
     else {
         fin >> str;
-        n = stoi(str);
+       n = stoi(str);
         graph.resize(n);
         for (int i = 0; i < n; i++) {
             fin >> str;
@@ -104,15 +104,24 @@ int main() {
                     dest[to] = dest[index] + len;
                 }
 
-                change.resize(sizec + 1);
-                sizec++;
-                ch++;
-                for (int counter = 0; counter < ch; counter++) {
-                    if (to != change[counter]) {
-
-                        change[ch] = to;
+               
+                for (int counter = 0; counter < sizec; counter++) {
+                    if (to == change[counter]) {
+                        
+                        
                         break;
                     }
+                    if (to != change[counter]) {
+                        if(counter==(sizec-1)){
+                            change.resize(sizec + 1);
+                            sizec++;
+                            ch++;
+                            change[ch] = to;
+                            break;
+                        }
+                    }
+                       
+                    
                 }
 
             }

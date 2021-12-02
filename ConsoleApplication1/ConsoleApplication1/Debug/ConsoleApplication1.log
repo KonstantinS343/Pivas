@@ -1,0 +1,13 @@
+﻿  ConsoleApplication1.cpp
+A:\rast\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,27): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(95,27): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(99,35): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(145,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(150,35): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(157,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(163,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,29): warning C4101: edge: неиспользованная локальная переменная
+A:\rast\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,12): warning C4101: l: неиспользованная локальная переменная
+A:\rast\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36): error C4716: dlina: должна возвращать значение

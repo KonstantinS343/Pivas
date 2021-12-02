@@ -80,9 +80,7 @@ int main() {
     for (int vert = 0; vert < n; vert++) {
         dest[vert] = 0;
         vector<int> change(1);
-        if (size(graph.at(vert)) == 0) {
-            break;
-        }
+        
         sizec = 1;
         index = 0;
         change[0] = vert;
@@ -100,7 +98,7 @@ int main() {
 
                 int len = graph[index][cou].second;
 
-                if (dest[index] + len < dest[to]) {
+                if (dest[index] + len <dest[to]) {
                     dest[to] = dest[index] + len;
                 }
 

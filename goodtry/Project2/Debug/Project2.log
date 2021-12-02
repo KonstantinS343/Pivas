@@ -1,8 +1,8 @@
 ﻿  Source.cpp
 A:\rast\goodtry\Project2\Source.cpp(63,23): warning C4018: <: несоответствие типов со знаком и без знака
 A:\rast\goodtry\Project2\Source.cpp(66,27): warning C4018: <: несоответствие типов со знаком и без знака
-A:\rast\goodtry\Project2\Source.cpp(90,27): warning C4018: <: несоответствие типов со знаком и без знака
-A:\rast\goodtry\Project2\Source.cpp(94,35): warning C4018: <: несоответствие типов со знаком и без знака
-A:\rast\goodtry\Project2\Source.cpp(142,35): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\goodtry\Project2\Source.cpp(88,27): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\goodtry\Project2\Source.cpp(92,35): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\goodtry\Project2\Source.cpp(140,35): warning C4018: <: несоответствие типов со знаком и без знака
 A:\rast\goodtry\Project2\Source.cpp(14,13): warning C4101: l: неиспользованная локальная переменная
   Project2.vcxproj -> A:\rast\goodtry\Debug\Project2.exe

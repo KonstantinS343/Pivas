@@ -1,0 +1,15 @@
+﻿  denis.cpp
+A:\rast\denis\denis\denis.cpp(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\denis\denis\denis.cpp(21,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\denis\denis\denis.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\denis\denis\denis.cpp(31,44): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\denis\denis\denis.cpp(48,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\denis\denis\denis.cpp(123,27): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\denis\denis\denis.cpp(127,35): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\denis\denis\denis.cpp(173,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\denis\denis\denis.cpp(178,35): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\denis\denis\denis.cpp(185,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\denis\denis\denis.cpp(191,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\denis\denis\denis.cpp(68,29): warning C4101: edge: неиспользованная локальная переменная
+A:\rast\denis\denis\denis.cpp(68,12): warning C4101: l: неиспользованная локальная переменная
+  denis.vcxproj -> A:\rast\denis\Debug\denis.exe

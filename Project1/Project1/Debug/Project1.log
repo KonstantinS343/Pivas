@@ -1,0 +1,10 @@
+﻿  Source.cpp
+A:\rast\Project1\Project1\Source.cpp(72,27): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\Project1\Project1\Source.cpp(76,35): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\Project1\Project1\Source.cpp(122,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\Project1\Project1\Source.cpp(127,35): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\Project1\Project1\Source.cpp(134,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\Project1\Project1\Source.cpp(140,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\rast\Project1\Project1\Source.cpp(17,29): warning C4101: edge: неиспользованная локальная переменная
+A:\rast\Project1\Project1\Source.cpp(17,12): warning C4101: l: неиспользованная локальная переменная
+A:\rast\Project1\Project1\Source.cpp(145): error C4700: использована неинициализированная локальная переменная "again"
